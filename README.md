@@ -8,5 +8,5 @@ These files contain complete loan data for all loans issued through the 2007-201
 ## 1. Total number of loans per states
 ![Total number of loans](https://github.com/Mahmood-Hoseini/Lending-Club-Risk-Analysis-and-Gradient-Boosting/blob/master/total-loans-US-map.png)
 
-## 2. Total number of "good" loans per states
+## 2. Ratio of "good" loans per states
 ![Total number of good loans](https://github.com/Mahmood-Hoseini/Lending-Club-Risk-Analysis-and-Gradient-Boosting/blob/master/good-loans-US-map.png)
